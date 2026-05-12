@@ -5,7 +5,7 @@ import colorsys
 speed(10000)
 
 # Set black background
-bgcolor("red")
+bgcolor("green")
 
 # Initial hue value for rainbow colors
 h = 0
